@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rate_dialog_ok">Nilai sekarang</string>
+    <string name="rate_dialog_cancel">Ingatkan nanti</string>
+    <string name="rate_dialog_message">Jika kamu menyukai aplikasi ini, apakah kamu mau menilai aplikasi ini? Tidak akan menghabiskan waktumu, hanya beberapa detik saja. Terima kasih atas supportnya!</string>
+    <string name="rate_dialog_no">Tidak, terima kasih</string>
+    <string name="rate_dialog_title">Nilai aplikasi</string>
+</resources>
