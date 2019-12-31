@@ -14,11 +14,13 @@ Android Rating is a library to help you promote your android app by prompting us
 
 Add to your build.gradle project:
 ```groovy
-repositories {
+allprojects {
+    repositories {
         // other resositories
         // ...
         maven { url 'https://dl.bintray.com/wahyuway/maven' }
     }
+}
 ```
 Add this to your dependencies in build.gradle module:
 ```groovy
